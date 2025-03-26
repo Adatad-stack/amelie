@@ -1,0 +1,173 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./styles/index.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base setup */
+:root {
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  background-color: #f8f8f3;
+  color: #1f2937;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  overflow-y: scroll; /* <--- C'est lui qui crée le scroll global */
+}
+
+/* Header */
+header {
+  text-align: center;
+  padding: 1rem;
+  background-color: transparent;
+  border-bottom: none;
+}
+
+/* Main chat area */
+main {
+  flex: 1 1;
+  padding: 1rem;
+  max-width: 768px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding-bottom: 6rem;
+  background-color: transparent;
+  scroll-behavior: smooth;
+}
+
+/* Scrollbar WebKit */
+main::-webkit-scrollbar {
+  width: 8px;
+}
+main::-webkit-scrollbar-thumb {
+  background-color: #9ca3af;
+  border-radius: 4px;
+}
+
+/* Chat messages */
+.message {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+  max-width: 100%;
+}
+
+.message.user {
+  justify-content: flex-end;
+}
+
+.message.assistant {
+  justify-content: flex-start;
+}
+
+.message-content {
+  max-width: 75%;
+  padding: 0.75rem 1rem;
+  border-radius: 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.message.user .message-content {
+  background-color: #f3f4f6;
+  color: #1f2937;
+  font-size: 18px;
+}
+
+.message.assistant .message-content {
+  background-color: transparent;
+  color: #111827;
+  font-size: 18px;
+}
+
+/* Avatar image */
+.avatar {
+  aspect-ratio: 0.5 / 0.5;
+  border-radius: 9999px;
+  object-fit: cover;
+  image-rendering: auto;
+  -webkit-image-rendering: auto;
+}
+
+/* Footer input */
+footer {
+  position: fixed;
+  bottom: 25px;
+  left: 0;
+  right: 0;
+  background-color: transparent;
+  z-index: 50;
+}
+
+.input-area {
+  position: relative;
+  width: 100%;
+  max-width: 768px;
+  margin: 0 auto;
+  background-color: white;
+  border-radius: 2rem;
+  padding: 4rem 3.5rem 2rem 1.5rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  border: 1px solid #f3f4f6;
+}
+
+.input-textarea {
+  width: 100%;
+  min-height: 48px;
+  max-height: 300px;
+  padding: 0;
+  padding-top: 0.25rem;             /* espace en haut */
+  border: none;
+  outline: none;
+  resize: none;
+  overflow: hidden;
+  font-size: 1.25rem;
+  font-family: inherit;
+  background-color: transparent;
+  color: #111827;
+  line-height: 1.5;
+  align-self: flex-start;
+  vertical-align: top;
+  transform: translateY(-2rem);  /* 🔥 corrige parfaitement l’alignement */
+}
+
+
+.input-textarea::placeholder {
+  color: #9ca3af;
+  font-family: inherit;
+  text-align: left;
+}
+
+/* Bouton flèche intégré */
+button {
+  position: absolute;
+  bottom: 1.25rem;
+  right: 1.25rem;
+  background-color: #000000;
+  border: none;
+  color: white;
+  border-radius: 9999px;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: #111111;
+}

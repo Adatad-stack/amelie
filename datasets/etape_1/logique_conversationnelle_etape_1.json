@@ -1,0 +1,51 @@
+[
+  {
+    "étape": "1. Identification de l’interlocuteur",
+    "objectif_user": "Exprimer une première demande ou salutation",
+    "objectif_bot": "Identifier le type d’interlocuteur et écarter les profils hors cible",
+    "sous_etapes": [
+      {
+        "nom": "1.1 Premier contact / ouverture",
+        "description": "Accueillir le message d’entrée, même s’il est simplement cordial.",
+        "formulation_intro": "Bonjour, je suis Amélie, votre assistante Nohée. Je suis là pour vous aider dans votre recherche de résidence. En quoi puis-je vous être utile aujourd’hui ?",
+        "questions_essentielles": [],
+        "questions_secondaires": [],
+        "conditions_avancer": [
+          "Un message d’ouverture a été formulé"
+        ],
+        "règles_horizontalité": {},
+        "intentions_associees": []
+      },
+      {
+        "nom": "1.2 Qualification de l’interlocuteur",
+        "description": "Déterminer pour qui est le projet et qui prend contact.",
+        "questions_essentielles": [
+          "Est-ce que vous cherchez une résidence pour vous, pour un proche ou pour quelqu’un d’autre ?",
+          "Êtes-vous un particulier, un professionnel ou un partenaire ?"
+        ],
+        "questions_secondaires": [
+          "Souhaitez-vous simplement vous renseigner ou avez-vous un projet en tête ?",
+          "Avez-vous déjà été en contact avec l’une de nos résidences ?"
+        ],
+        "conditions_avancer": [
+          "Profil utilisateur clairement identifié (prospect, proche, professionnel, etc.)"
+        ],
+        "règles_horizontalité": {
+          "si profil incertain": "Reposer les questions essentielles de cette sous-étape."
+        },
+        "intentions_associees": []
+      },
+      {
+        "nom": "1.3 Filtrage hors cible",
+        "description": "Identifier et orienter les interlocuteurs non ciblés (pro, RH, presse, etc.)",
+        "questions_essentielles": [],
+        "questions_secondaires": [],
+        "conditions_avancer": [
+          "Interlocuteur hors cible reconnu et orienté"
+        ],
+        "règles_horizontalité": {},
+        "intentions_associees": []
+      }
+    ]
+  }
+]

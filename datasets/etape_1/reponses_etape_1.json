@@ -1,0 +1,45 @@
+{
+  "1. Identification de l’interlocuteur": {
+    "1.1 Premier contact / entrée en conversation": {
+      "premier_contact": {
+        "intention": "L’utilisateur initie la conversation avec un message libre (bonjour, demande vague ou polie).",
+        "réponse": "Bonjour et bienvenue chez Nohée ! Je suis là pour répondre à vos questions et vous guider pas à pas.",
+        "info_sensible": false
+      }
+    },
+    "1.2 Qualification du profil": {
+      "je_suis_prospect": {
+        "intention": "La personne concernée par le projet prend contact elle-même",
+        "réponse": "Merci pour votre message. Je vais vous poser quelques questions pour comprendre ce que vous recherchez.",
+        "info_sensible": false
+      },
+      "je_suis_proche": {
+        "intention": "Un proche (souvent enfant ou conjoint) prend contact pour un tiers",
+        "réponse": "Merci pour ces précisions. Dites-m’en un peu plus sur votre proche, je vais vous aider à trouver ce qui lui conviendrait le mieux.",
+        "info_sensible": false
+      }
+    },
+    "1.3 Filtrage hors cible": {
+      "je_suis_professionnel": {
+        "intention": "Un professionnel cherche à proposer ses services ou à entrer en contact avec la marque",
+        "réponse": "Merci pour votre message. Je transmets votre demande à notre équipe partenariats.",
+        "info_sensible": false
+      },
+      "je_suis_candidat": {
+        "intention": "Un candidat souhaite postuler (emploi ou stage)",
+        "réponse": "Merci pour votre intérêt. Je transmets votre demande à notre équipe RH.",
+        "info_sensible": false
+      },
+      "je_suis_institutionnel": {
+        "intention": "Un acteur institutionnel (journaliste, collectivité...) prend contact",
+        "réponse": "Merci pour votre message. Je fais suivre votre demande à notre équipe communication.",
+        "info_sensible": false
+      },
+      "je_suis_autre_non_identifié": {
+        "intention": "Message non qualifiable immédiatement, profil à clarifier",
+        "réponse": "Pouvez-vous me dire si vous êtes un particulier, un professionnel ou autre ? Cela m’aidera à vous orienter.",
+        "info_sensible": false
+      }
+    }
+  }
+}
