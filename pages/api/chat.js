@@ -7,6 +7,7 @@ import path from "path";
 const chatModel = new ChatOpenAI({
   temperature: 0,
   modelName: "gpt-4",
+  openAIApiKey: process.env.OPENAI_API_KEY,
 });
 
 const prompt = PromptTemplate.fromTemplate(`
