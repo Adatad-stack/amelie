@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "npm run sync-prompts && next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "sync-prompts": "python app/api/chat/utils/convert_md_to_json.py"
   },
   "dependencies": {
     "langchain": "^0.3.19",

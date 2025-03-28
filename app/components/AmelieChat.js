@@ -1,3 +1,5 @@
+// ✅ Patch visuel : suppression du liseré gris
+
 "use client";
 
 import { useState, useEffect, useRef } from "react";
@@ -53,7 +55,7 @@ export default function AmelieChat() {
 
       const data = await response.json();
       console.log("📦 Réponse brute du backend :", data);
-	  const bot = data.reponseBot;
+      const bot = data.reponseBot;
 
       if (!bot) {
         throw new Error("La réponse ne contient pas de reponseBot.");
@@ -92,11 +94,11 @@ export default function AmelieChat() {
   return (
     <div className="flex h-screen relative">
       <div className="flex flex-col flex-1 bg-white z-10">
-        <header className="p-4 border-b">
+        <header className="p-4 border-b border-gray-100">
           <img src="/logo.png" alt="Logo AdataD" className="h-12 mx-auto" />
         </header>
 
-        <main className="flex-1 overflow-y-auto px-4 py-4 pb-28 space-y-4">
+        <main className="flex-1 overflow-y-auto px-4 py-4 pb-32 space-y-4">
           {messages.map((m, i) => (
             <div key={i} className={`message ${m.role}`}>
               {m.role === "assistant" ? (
@@ -109,9 +111,7 @@ export default function AmelieChat() {
                   <div
                     className="message-content bg-gray-100 px-4 py-2 rounded-xl"
                     dangerouslySetInnerHTML={{
-                      __html: i === messages.length - 1 && isTyping
-                        ? displayedText
-                        : m.content
+                      __html: i === messages.length - 1 && isTyping ? displayedText : m.content
                     }}
                   />
                 </div>
@@ -132,30 +132,29 @@ export default function AmelieChat() {
           <div ref={endRef} />
         </main>
 
-        <footer className="fixed bottom-0 left-0 right-0 z-50 bg-white pb-4">
+        <footer className="fixed bottom-0 left-0 right-0 z-50 bg-white p-4">
           {showIntro && (
-            <div className="w-full text-base text-gray-900 px-6 pb-2">
+            <div className="w-full text-base text-gray-900 mb-2">
               <IntroMessage visible={true} />
             </div>
           )}
-
-          <div className="input-area">
+          <div className="input-area flex gap-2">
             <textarea
               rows="1"
               value={input}
               onChange={(e) => setInput(e.target.value)}
               onKeyDown={handleKeyDown}
               placeholder="Posez votre question..."
-              className="input-textarea resize-none overflow-hidden"
+              className="flex-1 input-textarea resize-none overflow-hidden"
             ></textarea>
 
             <button
               onClick={handleSend}
               aria-label={isTyping ? "Arrêter" : "Envoyer"}
-              className="flex items-center justify-center w-10 h-10 bg-black text-white rounded-full"
+              className="w-10 h-10 bg-black text-white rounded-full flex items-center justify-center"
             >
               {isTyping ? (
-                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                   <rect x="6" y="6" width="12" height="12" rx="2" ry="2" />
                 </svg>
               ) : (
