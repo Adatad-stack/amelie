@@ -1,0 +1,2009 @@
+{
+  "Résidence Nohée Arcachon": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Arcachon",
+        "Adresse": "6 Rue Francis Lanine 33120 Arcachon",
+        "Ville": "NOHEE Arcachon",
+        "Code postal": "33120",
+        "Département": "Gironde - 33",
+        "Région": "",
+        "Transports": "Bus : réseau BAÏA (7 lignes) // Bus électrique EHO // Gare SNCF d’Arcachon à 700 m avec liaison TER vers Bordeaux (Gare TGV)",
+        "Localisation": "À deux pas du parc Mauresque et du marché couvert, dans un quartier central et vivant"
+      },
+      "Contact": {
+        "Téléphone": "05 56 22 06 10",
+        "Email": "arcachon@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "OUI",
+        "Piscine": "OUI",
+        "Commodités proches": [
+          "Marché couvert d'Arcachon (à 200 m)",
+          "Plage d’Arcachon (à 300 m)",
+          "Parc Mauresque (à 400 m)",
+          "Boulangerie, pharmacie, supermarché (dans un rayon de 500 m)",
+          "Théâtre Olympia et Casino (à moins de 600 m)"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 32 m²",
+            "Tarif": "À partir de 1628€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 36 m²",
+            "Tarif": "À partir de 2042€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 49 m²",
+            "Tarif": "À partir de 2442€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "La résidence NOHEE Arcachon est un havre de paix situé entre la plage et le parc Mauresque. Elle propose un cadre de vie privilégié avec un patio paysager et un bassin d’agrément, à quelques pas du marché couvert et du centre-ville. Pensée pour le confort et l’autonomie, elle offre une ambiance chaleureuse, familiale et dynamique."
+      }
+    }
+  },
+  "Résidence Nohée Arras": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Arras",
+        "Adresse": "Rue Sainte Claire 62000 Arras",
+        "Ville": "NOHEE Arras",
+        "Code postal": "62000",
+        "Département": "Pas-de-Calais - 62",
+        "Région": "",
+        "Transports": "🚌 Réseau Artis : 10 lignes // 🚐 Navette gratuite « Ma Citadine » toutes les 10 minutes // 🚆 Gare SNCF (TER-TGV) : Lille à 30 min, Paris à 50 min, Bruxelles à 2h",
+        "Localisation": "Située sur le site historique de l’ancienne caserne Schramm, à 20 min à pied de la gare et à 5 min de la rue commerçante Saint-Aubert."
+      },
+      "Contact": {
+        "Téléphone": "03 21 15 57 00",
+        "Email": "arras@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Centre hospitalier d’Arras",
+          "Rue commerçante Saint-Aubert",
+          "Marché de quartier",
+          "Pharmacie",
+          "Boulangerie",
+          "Supermarché",
+          "Coiffeur",
+          "Centre médical",
+          "Espaces verts à proximité"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 31 m²",
+            "Tarif": "À partir de 1728€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 36 m²",
+            "Tarif": "À partir de 1983€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 49 m²",
+            "Tarif": "À partir de 2685€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Implantée au cœur de l'ancienne caserne Schramm, la résidence Nohée Arras allie charme historique et confort moderne. Elle offre un cadre paisible, proche du centre-ville et de la citadelle Vauban. Pensée pour l’autonomie et la convivialité, elle propose des appartements adaptés, des espaces communs chaleureux, et un accompagnement sur mesure pour une vie quotidienne épanouissante."
+      }
+    }
+  },
+  "Résidence Nohée Asnières": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Asnières",
+        "Adresse": "114 Avenue Henri Barbusse 92600 Asnières-sur-Seine",
+        "Ville": "NOHEE Asnières",
+        "Code postal": "92600",
+        "Département": "Hauts-de-Seine - 92",
+        "Région": "",
+        "Transports": "Gares : Asnières (15 min) et Bois Colombes (2 min) // Métro : ligne 13 (stations Gabriel Péri, Les Agnettes, Asnières les Courtilles) // Bus : 6 lignes locales",
+        "Localisation": "À 50 m de la rue commerçante des Bourguignons // Résidence implantée dans un ancien site industriel de Chanel"
+      },
+      "Contact": {
+        "Téléphone": "01 46 85 27 00",
+        "Email": "asnieres@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Rue des Bourguignons",
+          "Supermarché",
+          "Pharmacie",
+          "Boulangerie",
+          "Marché",
+          "Coiffeur",
+          "Centre aquatique",
+          "Police",
+          "Médiathèque",
+          "Espaces verts",
+          "Bureau de poste"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 28 m²",
+            "Tarif": "À partir de 1739€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 34 m²",
+            "Tarif": "À partir de 2297€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 61 m²",
+            "Tarif": "À partir de 2462€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "La résidence Nohée Asnières est un lieu unique installé dans un bâtiment des années 30 au riche passé industriel. Elle allie charme architectural, calme et proximité immédiate avec les commerces. Les espaces de vie élégants, le jardin arboré et la convivialité des lieux offrent un cadre de vie serein et animé à quelques minutes de Paris."
+      }
+    }
+  },
+  "Résidence Nohée Boissy-Saint-Léger": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Boissy-Saint-Léger",
+        "Adresse": "5 D rue de Paris 94470 Boissy-Saint-Léger",
+        "Ville": "NOHEE Boissy-Saint-Léger",
+        "Code postal": "94470",
+        "Département": "Val-de-Marne - 94",
+        "Région": "",
+        "Transports": "🚉 Gare : RER A Boissy-Saint-Léger à 300m, accès à Paris Gare de Lyon en 30 min // 🚌 Bus : lignes J1, J2, 5, 6, 12, 21, 23 vers métro ligne 8 // 🚗 Accès rapide aux routes N19, N406, N6, A86 et A4",
+        "Localisation": [
+          "Située à proximité du Parc du Piple et du Domaine de Grosbois",
+          "À 20 minutes de Paris",
+          "Cadre urbain proche de la nature avec espaces verts"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "01 85 53 88 38",
+        "Email": ""
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Poste",
+          "Mairie",
+          "Loisirs",
+          "Cinéma",
+          "Marché",
+          "Supermarché",
+          "Boulangerie",
+          "Pharmacie",
+          "Espaces verts",
+          "Centre médical",
+          "Laboratoire d’analyses médicales",
+          "Centre commercial"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 32 m²",
+            "Tarif": "À partir de 1767€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 44 m²",
+            "Tarif": "À partir de 2288€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 46 m²",
+            "Tarif": "À partir de 2735€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "La résidence Nohée Boissy-Saint-Léger offre un cadre de vie exceptionnel, combinant douceur urbaine et tranquillité naturelle, tout près du Parc du Piple. Avec une décoration inspirée de l'esprit scandinave, la résidence assure sérénité et confort quotidien. Ses espaces verts, sa terrasse extérieure et son terrain de pétanque favorisent détente et convivialité, à seulement 20 minutes de Paris."
+      }
+    }
+  },
+  "Résidence Nohée Bordeaux": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Bordeaux",
+        "Adresse": "8 Rue Lucien Faure 33300 Bordeaux",
+        "Ville": "NOHEE Bordeaux",
+        "Code postal": "33300",
+        "Département": "Gironde - 33",
+        "Région": "",
+        "Transports": "🚉 Gare SNCF Bordeaux St-Jean // 🚋 Tram B - arrêt « Cité du Vin » à 50m // 🚌 Bus lignes 7, Corol 32, Citéis 45 - arrêt « Cité du Vin » // ✈️ Aéroport Bordeaux-Mérignac à 20 min en voiture",
+        "Localisation": "Située entre les Bassins à flot et le quartier des Chartrons, à deux pas des quais arborés de la Garonne"
+      },
+      "Contact": {
+        "Téléphone": "05 57 01 67 00",
+        "Email": "bordeaux@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Tram et bus à 50 m (Cité du Vin)",
+          "Marché alimentaire et artisanat (Halles de Bacalan)",
+          "Musée de la Mer et de la Marine",
+          "Cap Sciences",
+          "Supermarché, pharmacie, boulangerie à moins de 500 m"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 25 m²",
+            "Tarif": "À partir de 1414€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 38 m²",
+            "Tarif": "À partir de 1935€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 63 m²",
+            "Tarif": "À partir de 2621€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Située dans le quartier réaménagé des Bassins à flot, la résidence Nohée Bordeaux offre un cadre de vie paisible et culturel. À proximité de la Garonne, elle bénéficie d’un environnement urbain dynamique mêlant nature, culture et commerces. Les résidents profitent d'appartements confortables et lumineux, de services à la carte et d’une vie sociale animée par des activités variées. L'esprit Nohée y cultive l'équilibre entre autonomie, sécurité et convivialité."
+      }
+    }
+  },
+  "Résidence Nohée Chambéry": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Chambéry",
+        "Adresse": "117 rue Amélie Gex 73000 Chambéry",
+        "Ville": "NOHEE Chambéry",
+        "Code postal": "73000",
+        "Département": "Savoie - 73",
+        "Région": "",
+        "Transports": "🚉 Gare : SNCF Chambéry Challes-les-Eaux à 900 m // 🚌 Bus : Ligne D // ✈️ Aéroports : Chambéry à 12 km, Lyon St Exupéry à 88 km, Genève Cointrin à 91 km",
+        "Localisation": [
+          "Située sur la colline des Monts, dans un quartier calme et prisé",
+          "À proximité du centre historique de Chambéry",
+          "À deux pas des espaces verts et jardins"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "04 82 29 80 34",
+        "Email": ""
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Marché",
+          "Supermarché",
+          "Boulangerie",
+          "Pharmacie",
+          "Espaces verts",
+          "Poste",
+          "Restaurants et cafés",
+          "Loisirs culturels"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 30 m²",
+            "Tarif": "À partir de 1686€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 45 m²",
+            "Tarif": "À partir de 1805€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 61 m²",
+            "Tarif": "À partir de 2879€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Nichée sur la colline des Monts à Chambéry, la résidence Nohée vous accueille dans un environnement calme et verdoyant avec une vue imprenable sur les massifs alpins. Idéalement située à proximité du centre-ville historique, des cafés, des restaurants et des jardins, elle offre une vie quotidienne agréable et animée, favorisant le bien-être et l'autonomie des résidents."
+      }
+    }
+  },
+  "Résidence Nohée Clichy": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Clichy",
+        "Adresse": "53 rue Georges Boisseau 92110 Clichy",
+        "Ville": "NOHEE Clichy",
+        "Code postal": "92110",
+        "Département": "Hauts-de-Seine - 92",
+        "Région": "",
+        "Transports": "Métro : ligne 13 (Mairie de Clichy), ligne 14 (Clichy Saint-Ouen) // Gare : Levallois-Clichy vers Paris Saint-Lazare (15 min) // Bus : plusieurs lignes desservant la commune",
+        "Localisation": "En bordure des parcs Mozart et Roger Salengro // À proximité immédiate de l’hôpital Beaujon // Située dans un quartier vivant à 20 minutes de Paris Saint-Lazare"
+      },
+      "Contact": {
+        "Téléphone": "01 40 90 25 00",
+        "Email": "clichy@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Supermarché",
+          "Boulangerie",
+          "Pharmacie",
+          "Restaurant",
+          "Espaces verts",
+          "Hôpital"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 28 m²",
+            "Tarif": "À partir de 1789€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 41 m²",
+            "Tarif": "À partir de 2209€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 63 m²",
+            "Tarif": "À partir de 2599€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Située dans un environnement verdoyant en bordure de deux parcs, la résidence Nohée Clichy offre des espaces de vie modernes et colorés. Proche des commerces et à seulement quelques minutes de Paris, elle conjugue calme et vitalité urbaine. Nos équipes attentionnées veillent à créer une ambiance chaleureuse et conviviale, propice au bien-être et à l’épanouissement de chacun. Nohée Clichy est idéale pour les seniors à la recherche de confort, de services et de lien social."
+      }
+    }
+  },
+  "Résidence Nohée Issy Patio": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Issy Patio",
+        "Adresse": "43 rue du Gouverneur Général Eboué 92130 Issy-les-Moulineaux",
+        "Ville": "NOHEE Issy Patio",
+        "Code postal": "92130",
+        "Département": "Hauts-de-Seine - 92",
+        "Région": "",
+        "Transports": "Métro : Ligne 12 - Mairie d’Issy",
+        "Localisation": "Située dans une rue calme et arborée // À proximité immédiate de la mairie, du marché bi-hebdomadaire et d’espaces culturels comme la médiathèque, le conservatoire et les cinémas // À deux pas du parc du séminaire Saint-Sulpice"
+      },
+      "Contact": {
+        "Téléphone": "01 41 33 05 00",
+        "Email": "issypatio@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Médiathèque",
+          "Conservatoire",
+          "Cinéma",
+          "Supermarché",
+          "Restaurant",
+          "Pharmacie",
+          "Presse",
+          "Loisirs",
+          "Boulangerie",
+          "Mairie, police"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 31 m²",
+            "Tarif": "À partir de 1528€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 44 m²",
+            "Tarif": "À partir de 2123€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 65 m²",
+            "Tarif": "À partir de 2647€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Nohée Issy Patio propose un havre de paix en plein centre d’Issy-les-Moulineaux. Sa décoration boisée et son style rétro chic créent une ambiance cosy et raffinée. Le patio intérieur offre un lieu de détente unique, tandis que les multiples équipements et services favorisent l’épanouissement et la convivialité au quotidien, dans un quartier riche en culture et bien desservi."
+      }
+    }
+  },
+  "Résidence Nohée Enghien-Les-Bains": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Enghien-Les-Bains",
+        "Adresse": "11 Rue du Temple 95880 Enghien-les-Bains",
+        "Ville": "NOHEE Enghien-Les-Bains",
+        "Code postal": "95880",
+        "Département": "Val-d'Oise - 95",
+        "Région": "",
+        "Transports": "Gare : Transilien ligne H // Bus : RATP 254, 256 // R’Bus 7 // Valmy 11, 13, 14, 15, 16 // Noctilien N51 // Voiture : 15 mn des portes de Paris",
+        "Localisation": "À proximité immédiate du Lac // À 250 m de la gare et du centre-ville // À 10 minutes à pied du Casino Barrière"
+      },
+      "Contact": {
+        "Téléphone": "01 34 28 49 00",
+        "Email": "enghien@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "OUI",
+        "Commodités proches": [
+          "Marché",
+          "Supermarché",
+          "Boulangerie",
+          "Pharmacie",
+          "Centre médical",
+          "Loisirs",
+          "Poste",
+          "Mairie",
+          "Piscine municipale"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 30 m²",
+            "Tarif": "À partir de 1712€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 34 m²",
+            "Tarif": "À partir de 1832€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 47 m²",
+            "Tarif": "À partir de 2376€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Située au cœur de la seule station thermale d’Île-de-France, la résidence Nohée Enghien-les-Bains offre un cadre élégant avec un jardin paysager, à deux pas du lac, du centre piéton et des animations culturelles. Ici, la qualité de vie rime avec bien-être, proximité et sérénité."
+      }
+    }
+  },
+  "Résidence Nohée Le Pouliguen": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Le Pouliguen",
+        "Adresse": "4 Rue de la Crique Boulevard de la Libération 44510 Le Pouliguen",
+        "Ville": "NOHEE Le Pouliguen",
+        "Code postal": "44510",
+        "Département": "Loire-Atlantique - 44",
+        "Région": "",
+        "Transports": "🚆 Gare TGV/TER à 300m : Paris-Le Croisic // 🚌 Bus LILA ligne E // ✈️ Aéroport Nantes Atlantique à 85 km avec navettes vers la gare de Nantes",
+        "Localisation": "À proximité du port de plaisance // Accès direct à la plage de Nau // Située dans un environnement arboré et calme"
+      },
+      "Contact": {
+        "Téléphone": "02 40 00 35 30",
+        "Email": "lepouliguen@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "OUI",
+        "Piscine": "PISCINE EXTÉRIEURE",
+        "Commodités proches": [
+          "Marché",
+          "Pharmacie",
+          "Boulangerie",
+          "Supermarché",
+          "Centre médical",
+          "Espaces verts",
+          "Poste",
+          "Mairie"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 30 m²",
+            "Tarif": "À partir de 1634€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 33 m²",
+            "Tarif": "À partir de 2282€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 51 m²",
+            "Tarif": "À partir de 2420€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "La résidence Nohée Le Pouliguen vous accueille dans un cadre idyllique, entre plage et port de plaisance. Sa terrasse ensoleillée et sa piscine extérieure invitent à la détente, tandis que les ruelles pittoresques et les marais environnants raviront les amateurs de balades. L’esprit maison de famille y règne, avec des services pensés pour simplifier la vie et favoriser les liens entre résidents."
+      }
+    }
+  },
+  "Résidence Nohée Le Touquet": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Le Touquet",
+        "Adresse": "45 rue Joseph Duboc 62520 Le Touquet-Paris-Plage",
+        "Ville": "NOHEE Le Touquet",
+        "Code postal": "62520",
+        "Département": "Pas-de-Calais - 62",
+        "Région": "",
+        "Transports": "🚉 Train : Paris - Gare du Nord (2h15), TER Lille (3h) // 🚌 Navettes Mer et Forêt, Gare Étaples-Le Touquet // ✈️ Aéroport : Le Touquet (2,5 km)",
+        "Localisation": [
+          "Au cœur du Touquet-Paris-Plage, station balnéaire renommée",
+          "À proximité immédiate du centre-ville commerçant",
+          "Cadre prestigieux proche des dunes et de la plage"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "03 59 28 46 31",
+        "Email": ""
+      },
+      "Environnement": {
+        "Bord de mer": "OUI",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Plage",
+          "Mini-golf",
+          "Poste",
+          "Loisirs",
+          "Presse",
+          "Marché",
+          "Supermarché",
+          "Boulangerie",
+          "Coiffeur",
+          "Shopping",
+          "Pharmacie",
+          "Espaces verts"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 30 m²",
+            "Tarif": "À partir de 1418€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 44 m²",
+            "Tarif": "À partir de 1910€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 58 m²",
+            "Tarif": "À partir de 2381€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Implantée dans la célèbre station balnéaire du Touquet-Paris-Plage, la résidence Nohée Le Touquet offre un cadre élégant et convivial."
+      }
+    }
+  },
+  "Résidence Nohée Lyon 6": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Lyon 6",
+        "Adresse": "63 Rue Sainte-Geneviève 69006 Lyon",
+        "Ville": "NOHEE Lyon 6",
+        "Code postal": "69006",
+        "Département": "Rhône - 69",
+        "Région": "",
+        "Transports": "Aéroport : Lyon-Saint-Exupéry (34 km) // Gare : Part-Dieu (700 m), Perrache // Métro : Ligne B // Tramway : T1, T4 // Bus : C3, 27",
+        "Localisation": "Située à Bellecombe // Proximité immédiate des commerces et restaurants // À 700 m de la Gare Part-Dieu // À 15 minutes du Parc de la Tête d’Or"
+      },
+      "Contact": {
+        "Téléphone": "04 78 79 67 00",
+        "Email": "lyon6@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Commerces et supermarché dans un rayon de 300 m",
+          "Pharmacie à moins de 200 m",
+          "Restaurants et cafés à proximité immédiate",
+          "Parc de la Tête d’Or à 15 minutes",
+          "Clinique du Parc à 600 m"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 29 m²",
+            "Tarif": "À partir de 1432€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 36 m²",
+            "Tarif": "À partir de 1866€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 65 m²",
+            "Tarif": "À partir de 2342€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "La résidence NOHEE Lyon 6 s’inscrit dans le cadre réhabilité d’un ancien site hospitalier, entre tradition et modernité. Elle propose un cadre de vie chaleureux avec une grande terrasse, un jardin apaisant et des espaces communs baignés de lumière. Située dans un quartier vivant et connecté, elle offre un accès rapide aux commerces, transports, et à la vie culturelle lyonnaise. Les résidents y trouvent un équilibre parfait entre intimité, sécurité et vie sociale."
+      }
+    }
+  },
+  "Résidence Nohée Lyon 7": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Lyon 7",
+        "Adresse": "78 rue Saint Jérome 69007 Lyon",
+        "Ville": "NOHEE Lyon 7",
+        "Code postal": "69007",
+        "Département": "Rhône - 69",
+        "Région": "",
+        "Transports": "Gares TGV : Part-Dieu, Perrache // Gare TER : Jean-Macé (à 350 m) // Métro : lignes B et D // Tramway : T2 (à 350 m) // Bus : C4, C12, C14, C35 // Aéroport : Saint-Exupéry (30 km)",
+        "Localisation": "À proximité de la place Jean Macé // À 300 m des quais du Rhône // À quelques pas des commerces et de l’avenue Berthelot"
+      },
+      "Contact": {
+        "Téléphone": "04 72 94 96 00",
+        "Email": "lyon7@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Place Jean Macé à 300 m",
+          "Commerces de l’avenue Berthelot à 200 m",
+          "Boulangerie et pharmacie dans un rayon de 300 m",
+          "Hôpital Saint-Luc Saint-Joseph à 900 m",
+          "Marché Jean Macé à 350 m"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 29 m²",
+            "Tarif": "À partir de 1639€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 45 m²",
+            "Tarif": "À partir de 2288€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 47 m²",
+            "Tarif": "À partir de 2624€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "NOHEE Lyon 7 est une résidence lumineuse et accueillante, située au cœur d’un quartier dynamique et bien desservi. Elle propose des logements spacieux et modernes, ainsi que des espaces partagés chaleureux. Proche des commerces, des transports et des berges du Rhône, elle favorise l'autonomie et le lien social dans un environnement urbain apaisé."
+      }
+    }
+  },
+  "Résidence Nohée Mantes-La-Jolie": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Mantes-La-Jolie",
+        "Adresse": "Rue de Lorraine 78200 Mantes-la-Jolie",
+        "Ville": "NOHEE Mantes-La-Jolie",
+        "Code postal": "78200",
+        "Département": "Yvelines - 78",
+        "Région": "",
+        "Transports": "🚆 Gares SNCF : Ligne J (Mantes - Paris Saint-Lazare) // Ligne N (Mantes - Paris Montparnasse / Dreux / Rambouillet)",
+        "Localisation": "À deux pas du centre-ville de Mantes-la-Jolie, dans un quartier calme et résidentiel, à 15 min de la gare SNCF et en face du square Brieussel-Bourgeois."
+      },
+      "Contact": {
+        "Téléphone": "01 30 63 42 00",
+        "Email": "mantes@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Cinéma",
+          "Supermarché",
+          "Boulangerie",
+          "Coiffeur",
+          "Restaurant",
+          "Pharmacie",
+          "Médiathèque",
+          "Espaces verts",
+          "Poste",
+          "Mairie"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 30 m²",
+            "Tarif": "À partir de 1727€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 34 m²",
+            "Tarif": "À partir de 1952€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 51 m²",
+            "Tarif": "À partir de 2571€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Située entre nature et patrimoine, la résidence Nohée Mantes-la-Jolie offre un cadre de vie paisible au cœur d’un quartier résidentiel. Pensée pour le confort et la convivialité, elle dispose d’espaces chaleureux comme un jardin avec aire de sport et boulodrome. À proximité du centre-ville et des berges de Seine, elle permet de profiter d’un environnement naturel tout en étant proche des commodités. C’est un lieu de vie idéal pour des seniors en quête de sérénité et de lien social."
+      }
+    }
+  },
+  "Résidence Nohée Marseille": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Marseille",
+        "Adresse": "22 Boulevard Barral 13008 Marseille",
+        "Ville": "NOHEE Marseille",
+        "Code postal": "13008",
+        "Département": "Bouches-du-Rhône - 13",
+        "Région": "",
+        "Transports": "🚇 Métro : Ligne 2 - Rond-Point du Prado // 🚆 Gare : Marseille Saint-Charles // ✈️ Aéroport : accessible depuis la gare via navette // 🚌 Bus : arrêts à proximité immédiate de l’avenue du Prado",
+        "Localisation": "Entre les quartiers Prado et Sainte-Anne // À 10 minutes à pied du Parc Borély et 15 minutes des plages // Proximité immédiate avec l’avenue de Mazargues"
+      },
+      "Contact": {
+        "Téléphone": "04 91 20 38 01",
+        "Email": "marseille-michelet@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "OUI",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Supermarché",
+          "Boulangerie",
+          "Pharmacie",
+          "Marché",
+          "Restaurant",
+          "Laboratoire d’analyses médicales",
+          "Coiffeur",
+          "Vétérinaire",
+          "Espaces verts",
+          "Centre commercial",
+          "Poste"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 27 m²",
+            "Tarif": "À partir de 1589€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 44 m²",
+            "Tarif": "À partir de 2201€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 58 m²",
+            "Tarif": "À partir de 2475€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Située dans le 8e arrondissement de Marseille, la résidence Nohée allie modernité et quiétude grâce à son architecture inspirée du style bord de mer et à son cœur d’îlot verdoyant. Son ambiance conviviale, ses espaces extérieurs soignés et sa proximité avec les commerces et plages en font un cadre de vie agréable et bien desservi, propice à l’épanouissement des résidents."
+      }
+    }
+  },
+  "Résidence Nohée Massy": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Massy",
+        "Adresse": "116 Avenue de Paris 91300 Massy",
+        "Ville": "NOHEE Massy",
+        "Code postal": "91300",
+        "Département": "Essonne - 91",
+        "Région": "",
+        "Transports": "Aéroport : Orly à 24mn (RER B) // Bus : Lignes 63, 122, 119, 196, 199, 319, 399 // Gare : SNCF Massy TGV à 400m // RER B et C",
+        "Localisation": "Dans le quartier récent Atlantis, à proximité immédiate de la Place du Grand Ouest et des commerces // À moins de 10 minutes à pied de la gare TGV et du parc de la Tuilerie"
+      },
+      "Contact": {
+        "Téléphone": "01 85 53 88 38",
+        "Email": "massy@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Cinéma Pathé Massy",
+          "Marché local",
+          "Pharmacie",
+          "Boulangerie",
+          "Centre médical",
+          "Supermarché",
+          "Espaces verts"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 26 m²",
+            "Tarif": "À partir de 1456€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 38 m²",
+            "Tarif": "À partir de 1908€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 53 m²",
+            "Tarif": "À partir de 2670€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "La résidence Nohée Massy bénéficie d’un emplacement stratégique au cœur du quartier Atlantis, entre la Place du Grand Ouest et la gare. Elle offre un cadre de vie moderne et dynamique, entourée de commerces, d’un parc arboré et de nombreux services de proximité. Nos logements lumineux et nos espaces partagés chaleureux permettent à chacun de vivre à son rythme, en toute autonomie, dans un environnement sécurisé et bienveillant."
+      }
+    }
+  },
+  "Résidence Nohée Montpellier": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Montpellier",
+        "Adresse": "7 Rue de la Fontaine de Lattes 34000 Montpellier",
+        "Ville": "NOHEE Montpellier",
+        "Code postal": "34000",
+        "Département": "Hérault - 34",
+        "Région": "",
+        "Transports": "🚉 Gare : SNCF TGV / TER (Gare Saint-Roch à 1km) // 🚋 Tramway : Lignes 1, 3 (arrêt à 200m) et 4 // ✈️ Aéroport : Montpellier-Méditerranée (à 10km)",
+        "Localisation": "À 10 minutes à pied de la place de la Comédie et des rives du Lez // À 200m du jardin des Mimosas // Dans un quartier calme proche du centre historique et du quartier Antigone"
+      },
+      "Contact": {
+        "Téléphone": "04 67 07 23 00",
+        "Email": "montpellier@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "OUI",
+        "Piscine": "PISCINE EXTERIEURE",
+        "Commodités proches": [
+          "Poste",
+          "Police",
+          "Marché",
+          "Supermarché",
+          "Boulangerie",
+          "Pharmacie",
+          "Espaces verts",
+          "Médiathèque"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 28 m²",
+            "Tarif": "À partir de 1602€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 42 m²",
+            "Tarif": "À partir de 2042€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 47 m²",
+            "Tarif": "À partir de 2341€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Située dans un quartier paisible et lumineux de Montpellier, la résidence Nohée offre un cadre de vie idéal entre centre historique et rives du Lez. Les logements confortables, la belle terrasse paysagère et la piscine extérieure créent une atmosphère chaleureuse propice à la détente. Proche des commerces, transports et lieux de promenade, cette résidence allie autonomie, convivialité et bien-être."
+      }
+    }
+  },
+  "Résidence Nohée Paris 16": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Paris 16",
+        "Adresse": "113 Boulevard Suchet 75016 Paris",
+        "Ville": "NOHEE Paris 16",
+        "Code postal": "75016",
+        "Département": "Paris - 75",
+        "Région": "",
+        "Transports": "Métro : Michel-Ange Auteuil (ligne 9), Porte d’Auteuil (ligne 10) // Bus : PC1, 32",
+        "Localisation": [
+          "À deux pas du Bois de Boulogne",
+          "À proximité immédiate de l’Hippodrome d’Auteuil",
+          "Proche des Serres d’Auteuil"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "01 85 53 92 32",
+        "Email": "paris16@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Supermarché",
+          "Pharmacie",
+          "Marché de quartier",
+          "Boulangerie",
+          "Coiffeur",
+          "Presse",
+          "Restaurant",
+          "La Poste"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 30 m²",
+            "Tarif": "À partir de 1505€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 45 m²",
+            "Tarif": "À partir de 2087€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 55 m²",
+            "Tarif": "À partir de 2392€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Située dans le prestigieux quartier d’Auteuil, la résidence Nohée Paris 16 offre un cadre de vie élégant et apaisant. Son architecture soignée et ses espaces verts participent à une atmosphère conviviale et sécurisante. Proche du Bois de Boulogne et des lieux de promenade, elle accueille les résidents dans un environnement raffiné, propice à la sérénité et à la convivialité."
+      }
+    }
+  },
+  "Résidence Nohée Pégomas": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Pégomas",
+        "Adresse": "142 Avenue de Grasse 06580 Pégomas",
+        "Ville": "NOHEE Pégomas",
+        "Code postal": "06580",
+        "Département": "Alpes-Maritimes - 06",
+        "Région": "",
+        "Transports": "🚆 Gare : SNCF Cannes (TGV/TER à 15 min) // 🚍 Bus : lignes 610 (vers Cannes et Grasse), ligne 29 // ✈️ Aéroport : Nice Côte d’Azur",
+        "Localisation": "Au cœur du nouveau quartier Cœur Pégomas, à 600 m du centre-ville, en face de la mairie et de la place du marché // À 10 min à pied des berges de la Siagne"
+      },
+      "Contact": {
+        "Téléphone": "04 93 09 58 00",
+        "Email": "pegomas@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "PISCINE EXTERIEURE",
+        "Commodités proches": [
+          "Marché",
+          "Supermarché",
+          "Pharmacie",
+          "Centre médical",
+          "Laboratoire d’analyses",
+          "Presse",
+          "Boulangerie",
+          "Loisirs",
+          "Restaurant",
+          "Poste",
+          "Espaces verts"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 29 m²",
+            "Tarif": "À partir de 1452€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 35 m²",
+            "Tarif": "À partir de 2025€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 55 m²",
+            "Tarif": "À partir de 2618€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Située dans un village provençal plein de charme, la résidence Nohée Pégomas bénéficie d’un environnement lumineux, verdoyant et paisible. Son jardin paysager, son boulodrome privé et sa piscine chauffée créent un cadre convivial et serein. À deux pas du centre et de toutes les commodités, la résidence conjugue confort, autonomie et qualité de vie au quotidien."
+      }
+    }
+  },
+  "Résidence Nohée Puteaux": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Puteaux",
+        "Adresse": "25 Rue Auguste Blanche 92800 Puteaux",
+        "Ville": "NOHEE Puteaux",
+        "Code postal": "92800",
+        "Département": "Hauts-de-Seine - 92",
+        "Région": "",
+        "Transports": "🚉 Transilien SNCF : Gares de La Défense et Puteaux // 🚇 Métro : Ligne 1 (La Défense, Esplanade de La Défense) // 🚈 RER A : La Défense // 🚋 Tram T2 : arrêts La Défense et Puteaux // 🚌 Bus : 73, 93, 157, 158, 174, 176",
+        "Localisation": "Située dans le quartier du Bas-Puteaux // À proximité des quais de Seine et du boulevard Richard Wallace"
+      },
+      "Contact": {
+        "Téléphone": "01 41 44 41 00",
+        "Email": "elerhun@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Marché",
+          "Supermarché",
+          "Boulangerie",
+          "Pharmacie",
+          "Centre médical",
+          "Loisirs",
+          "Coiffeur",
+          "Espaces verts (Parc Lebaudy, Parc Chantecoq)",
+          "Théâtre",
+          "Médiathèque",
+          "Mairie",
+          "Poste"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 32 m²",
+            "Tarif": "À partir de 1580€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 40 m²",
+            "Tarif": "À partir de 1997€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 47 m²",
+            "Tarif": "À partir de 2765€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "La résidence Nohée Puteaux s’inscrit dans un environnement citadin agréable, entre Seine et quartier historique. Elle propose des appartements lumineux, une décoration sobre et chaleureuse, ainsi qu’une équipe présente pour accompagner chaque résident. Proche des commerces, des transports et des espaces verts, elle offre une qualité de vie idéale pour les seniors à la recherche d’autonomie et de lien social."
+      }
+    }
+  },
+  "Résidence Nohée Salon-De-Provence": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Salon-De-Provence",
+        "Adresse": "245 Allées de Craponne 13300 Salon-de-Provence",
+        "Ville": "NOHEE Salon-de-Provence",
+        "Code postal": "13300",
+        "Département": "Bouches-du-Rhône - 13",
+        "Région": "",
+        "Transports": "🚉 Gare SNCF de Salon-de-Provence à 15 min à pied // 🚌 Bus : lignes 1 et 2 // ✈️ Aéroport Marseille-Provence à 26 km avec navette gratuite vers le centre-ville",
+        "Localisation": "Située à moins de 10 minutes du cœur de ville // En face du Château de l’Empéri // Dans un quartier calme et ensoleillé typique de la Provence"
+      },
+      "Contact": {
+        "Téléphone": "04 42 11 47 90",
+        "Email": "salon@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "PISCINE EXTERIEURE",
+        "Commodités proches": [
+          "Marché",
+          "Supermarché",
+          "Boulangerie",
+          "Pharmacie",
+          "Presse",
+          "Coiffeur",
+          "Restaurant",
+          "Poste",
+          "Mairie",
+          "Cinéma",
+          "Espaces verts"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 32 m²",
+            "Tarif": "À partir de 1462€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 36 m²",
+            "Tarif": "À partir de 2216€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 58 m²",
+            "Tarif": "À partir de 2831€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "La résidence Nohée Salon-de-Provence vous accueille au pied du Château de l’Empéri, dans un quartier calme baigné de lumière. Dotée d’une piscine extérieure, d’un jardin arboré et de grandes terrasses, elle allie douceur de vivre provençale et confort moderne. L’ambiance chaleureuse et l’accompagnement quotidien favorisent l’épanouissement dans un environnement authentique et sécurisé, au cœur d’une ville pleine de charme."
+      }
+    }
+  },
+  "Résidence Nohée Sèvres": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Sèvres",
+        "Adresse": "74 Grande Rue 92310 Sèvres",
+        "Ville": "NOHEE Sèvres",
+        "Code postal": "92310",
+        "Département": "Hauts-de-Seine - 92",
+        "Région": "",
+        "Transports": "🚇 Métro : Ligne 9 (Pont de Sèvres à 1,5 km) // 🚆 Gare SNCF Sèvres-Rive Gauche à 600 m // 🚋 Tramway T2 // 🚌 Bus : lignes 171 et 426",
+        "Localisation": [
+          "À 600 m du parc de Saint-Cloud",
+          "À proximité de la forêt de Meudon",
+          "Juste à côté de la mairie de Sèvres",
+          "Dans un quartier résidentiel agréable à 6 km de Paris"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "01 58 04 94 00",
+        "Email": "sevres@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Marché couvert",
+          "Pharmacie",
+          "Supermarché",
+          "Boulangerie",
+          "Coiffeur",
+          "Médiathèque",
+          "Cinéma / salle Le Sel",
+          "Restaurants",
+          "Centre de loisirs",
+          "La Poste"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 30 m²",
+            "Tarif": "À partir de 1441€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 45 m²",
+            "Tarif": "À partir de 1828€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 50 m²",
+            "Tarif": "À partir de 2341€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Installée au cœur de la ville de Sèvres, dans un environnement résidentiel paisible, la résidence Nohée Sèvres bénéficie d’un accès facile aux espaces verts et à une grande variété de commerces. Avec son îlot de verdure intérieur et ses nombreux espaces communs, elle offre une ambiance chaleureuse propice aux échanges. Les résidents y trouvent confort, autonomie et qualité de vie à deux pas de Paris."
+      }
+    }
+  },
+  "Résidence Nohée Suresnes": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Suresnes",
+        "Adresse": "1 Rue Salomon De Rothschild 92150 Suresnes",
+        "Ville": "NOHEE Suresnes",
+        "Code postal": "92150",
+        "Département": "Hauts-de-Seine - 92",
+        "Région": "",
+        "Transports": "🚉 Gares : Transilien SNCF – Suresnes Mont-Valérien (1 km) // 🚋 Tram : T2 – Belvédère et Suresnes Longchamp // 🚌 Bus : 93, 144, 157, 175",
+        "Localisation": [
+          "Sur les flancs de la colline du Mont-Valérien",
+          "À proximité immédiate du Bois de Boulogne",
+          "Quartier Écluse Belvédère",
+          "À 600 m des berges de la Seine"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "01 41 11 48 00",
+        "Email": "suresnes@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Marché",
+          "Mairie",
+          "Poste",
+          "Loisirs",
+          "Médiathèque",
+          "Supermarché",
+          "Boulangerie",
+          "Pharmacie",
+          "Hôpital",
+          "Espaces verts",
+          "Théâtre Jean Vilar"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 31 m²",
+            "Tarif": "À partir de 1654€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 42 m²",
+            "Tarif": "À partir de 1941€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 47 m²",
+            "Tarif": "À partir de 2829€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Située dans le quartier Écluse Belvédère, la résidence NOHEE Suresnes offre un cadre paisible entre ville et nature, à deux pas du Bois de Boulogne. Ses appartements modernes, son ambiance chic et cosy, et sa proximité immédiate des commerces et lieux culturels en font un lieu de vie accueillant et stimulant pour les seniors."
+      }
+    }
+  },
+  "Résidence Nohée Thonon-Les-Bains": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Thonon-Les-Bains",
+        "Adresse": "11 Avenue Jules Ferry 74200 Thonon-les-Bains",
+        "Ville": "NOHEE Thonon-Les-Bains",
+        "Code postal": "74200",
+        "Département": "Haute-Savoie - 74",
+        "Région": "",
+        "Transports": "🚉 Gare SNCF : Thonon-les-Bains // 🚌 Bus Thononais : lignes B, C, D, L, M, N, P // 🚍 Ligne estivale vers les bords du lac // ✈️ Aéroport de Genève à 40 km",
+        "Localisation": [
+          "À 400 m de la gare SNCF",
+          "À 10 min du lac Léman",
+          "Sur la rive française du Léman, proche de la Suisse",
+          "Dans un quartier calme à proximité du centre-ville"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "04 50 06 85 00",
+        "Email": "thonon@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Marché",
+          "Supermarché",
+          "Boulangerie",
+          "Pharmacie",
+          "Coiffeur",
+          "Presse",
+          "Restaurant",
+          "Poste",
+          "Mairie",
+          "Espaces verts",
+          "Funiculaire à 600 m"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 31 m²",
+            "Tarif": "À partir de 1539€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 39 m²",
+            "Tarif": "À partir de 1819€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 49 m²",
+            "Tarif": "À partir de 2868€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "La résidence NOHEE Thonon-les-Bains vous accueille dans un cadre naturel exceptionnel entre lac et montagnes. Située à quelques minutes du centre-ville et du lac Léman, elle allie calme, confort et accessibilité. Les appartements spacieux, les espaces lumineux et les prestations sur mesure offrent un environnement de vie serein, convivial et propice au bien-être."
+      }
+    }
+  },
+  "Résidence Nohée Vannes": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Vannes",
+        "Adresse": "6 Rue Lieutenant de Police Régis Ryckebusch 56000 Vannes",
+        "Ville": "NOHEE Vannes",
+        "Code postal": "56000",
+        "Département": "Morbihan - 56",
+        "Région": "",
+        "Transports": "🚉 Gare SNCF et gare routière de Vannes à 18 min à pied ou 12 min en bus // 🚌 Bus : lignes 1 à 11, 20 à 25, D1, D2, BZ03, BZ08, BZ09, BZ11, P, bus de nuit",
+        "Localisation": [
+          "Derrière la mairie de Vannes",
+          "À 5 min de la place de la Libération",
+          "À 15 min à pied du port de plaisance"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "02 97 69 55 00",
+        "Email": "vannes@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Poste",
+          "Mairie",
+          "Loisirs",
+          "Coiffeur",
+          "Commerces",
+          "Supermarché",
+          "Boulangerie",
+          "Presse",
+          "Pharmacie",
+          "Espaces verts"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 30 m²",
+            "Tarif": "À partir de 1772€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 34 m²",
+            "Tarif": "À partir de 1887€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 59 m²",
+            "Tarif": "À partir de 2300€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Installée dans un ancien cloître réhabilité, la résidence NOHEE Vannes mêle charme historique et modernité. Située à quelques pas du centre médiéval et du port, elle offre un cadre apaisant entre mer et patrimoine. Ses intérieurs lumineux s’ouvrent sur un jardin paysager, propice à la sérénité. À deux pas des commerces, restaurants et ruelles typiques, elle permet de vivre pleinement dans l’ambiance bretonne de Vannes tout en bénéficiant de services adaptés et personnalisés."
+      }
+    }
+  },
+  "Résidence Nohée Villejuif": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Villejuif",
+        "Adresse": "116 rue Jean Jaurès 94800 Villejuif",
+        "Ville": "NOHEE Villejuif",
+        "Code postal": "94800",
+        "Département": "Val-de-Marne - 94",
+        "Région": "",
+        "Transports": "🚇 Métro : Ligne 7 – Villejuif-Louis Aragon // 🚋 Tram : T7 // 🚌 Bus : RATP 131, 162, 172, 180, 185, 286 // 🌙 Noctilien : N15, N22 // ✈️ Aéroport d’Orly à 15 minutes",
+        "Localisation": [
+          "Située dans une rue commerçante dynamique",
+          "À proximité immédiate de l’hôpital Paul Guiraud",
+          "À 5 minutes à pied du métro ligne 7 – arrêt Paul Vaillant-Couturier"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "01 43 90 30 30",
+        "Email": "villejuif@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Marché",
+          "Supermarché",
+          "Pharmacie",
+          "Centre médical",
+          "Hôpital",
+          "Boulangerie",
+          "Médiathèque",
+          "Presse",
+          "Loisirs",
+          "La Poste"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 26 m²",
+            "Tarif": "À partir de 1743€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 42 m²",
+            "Tarif": "À partir de 2048€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 46 m²",
+            "Tarif": "À partir de 2449€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "La résidence NOHEE Villejuif se trouve aux portes de Paris, dans une rue commerçante vivante et arborée. Elle bénéficie d’un jardin intérieur, de nombreux espaces conviviaux et d’un parc arboré attenant. Elle offre un équilibre entre calme, confort et proximité urbaine. Entre promenades, culture et moments partagés, elle invite les résidents à vivre pleinement chaque jour, en toute liberté et sérénité."
+      }
+    }
+  },
+  "Résidence Nohée Limoges": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Limoges",
+        "Adresse": "10 rue St Exupéry 87000 Limoges",
+        "Ville": "NOHEE Limoges",
+        "Code postal": "87000",
+        "Département": "Haute-Vienne - 87",
+        "Région": "",
+        "Transports": "🚉 Gare : SNCF Limoges-Bénédictins à 600 m // 🚌 Bus : lignes 6 et 20",
+        "Localisation": [
+          "Située dans un quartier résidentiel calme",
+          "À 600 m du jardin public du Champ de Juillet",
+          "À 600 m de la gare des Bénédictins"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "05 44 21 40 00",
+        "Email": "limoges@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Centre médical",
+          "Centre commercial",
+          "Supermarché",
+          "Pharmacie",
+          "Restaurant",
+          "Espaces verts",
+          "Boulangerie"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 30 m²",
+            "Tarif": "À partir de 1755€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 35 m²",
+            "Tarif": "À partir de 2142€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 52 m²",
+            "Tarif": "À partir de 2347€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "La résidence NOHEE Limoges vous accueille dans un environnement verdoyant, à proximité immédiate du Champ de Juillet et de la gare. Ouverte en 2023, elle propose des appartements confortables et lumineux, des espaces partagés conviviaux et une offre de services sur mesure. Elle offre une qualité de vie sereine et dynamique, en lien avec la richesse culturelle et naturelle de Limoges."
+      }
+    }
+  },
+  "Résidence Nohée Avignon": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Avignon",
+        "Adresse": "102 Avenue de Tarascon 84000 Avignon",
+        "Ville": "NOHEE Avignon",
+        "Code postal": "84000",
+        "Département": "Vaucluse - 84",
+        "Région": "",
+        "Transports": "🚆 Gare : TGV Avignon et Gare Avignon Centre // 🚋 Tramway : Grand Avignon – arrêt Jouveau",
+        "Localisation": [
+          "À proximité du parc de l'Abbaye Saint-Ruf",
+          "À 5 minutes à pied du Stade Pierre Baizet",
+          "Dans un quartier résidentiel calme et bien desservi"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "04 32 76 85 00",
+        "Email": "avignon@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "PISCINE EXTERIEURE",
+        "Commodités proches": [
+          "Presse",
+          "Shopping",
+          "Cinéma",
+          "Pharmacie",
+          "Supermarché",
+          "Boulangerie",
+          "Restaurant",
+          "Espaces verts",
+          "Caisse d’assurance retraite"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 28 m²",
+            "Tarif": "À partir de 1583€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 35 m²",
+            "Tarif": "À partir de 2002€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 46 m²",
+            "Tarif": "À partir de 2466€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Située dans une ville riche d’histoire et baignée par le soleil méditerranéen, la résidence Nohée Avignon vous offre un cadre chaleureux et lumineux. Entre design épuré et matériaux naturels, ses espaces invitent à la détente et au bien-être. Sa piscine extérieure et son accès facilité à la vie culturelle d’Avignon complètent un quotidien serein, à deux pas de toutes les commodités nécessaires pour une vie épanouie."
+      }
+    }
+  },
+  "Résidence Nohée Eragny": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Eragny",
+        "Adresse": "Rue des Belles Hâtes 95610 Eragny-sur-Oise",
+        "Ville": "NOHEE Eragny",
+        "Code postal": "95610",
+        "Département": "Val-d'Oise - 95",
+        "Région": "",
+        "Transports": "🚉 Gare : Ligne J - Gare Éragny-Neuville à 600 m // 🚇 RER A à 5 min en voiture // 🚌 Bus : lignes 49, N159 // 🚗 Accès routier : N184, A15",
+        "Localisation": [
+          "Située face à la mairie et à la gare d'Éragny-Neuville",
+          "Environnement urbain calme avec espaces verts",
+          "À proximité des berges de l'Oise"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "01 85 53 88 38",
+        "Email": "eragny@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Poste",
+          "Mairie",
+          "Coiffeur",
+          "Shopping",
+          "Restaurant",
+          "Boulangerie",
+          "Pharmacie",
+          "Centre médical",
+          "Supermarché",
+          "Espaces verts"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 28 m²",
+            "Tarif": "À partir de 1556€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 42 m²",
+            "Tarif": "À partir de 1958€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 62 m²",
+            "Tarif": "À partir de 2504€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Située au cœur de la ville nouvelle de Cergy-Pontoise, la résidence Nohée Éragny vous accueille dans un environnement moderne et agréable. Elle offre un cadre de vie calme et paisible, propice à la détente grâce à ses espaces verts et zones piétonnes. Sa proximité avec les commerces et les berges reposantes de l'Oise en fait un lieu idéal pour conjuguer autonomie, confort et convivialité au quotidien."
+      }
+    }
+  },
+  "Résidence Nohée Montbonnot": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Montbonnot",
+        "Adresse": "1360 Avenue de l'Europe 38330 Montbonnot-Saint-Martin",
+        "Ville": "NOHEE Montbonnot",
+        "Code postal": "38330",
+        "Département": "Isère - 38",
+        "Région": "",
+        "Transports": "🚉 Gare : TGV de Grenoble // ✈️ Aéroport : Grenoble-Isère // 🚌 Bus : Ligne C vers Grenoble, arrêt Pré Millet (liaison 30 min avec Grenoble) - Bonimonbus tous les jeudis (service municipal gratuit d’accompagnement aux courses)",
+        "Localisation": [
+          "Aux portes de Grenoble",
+          "Face à la chaîne de Belledonne",
+          "À proximité immédiate des contreforts de la Chartreuse",
+          "Dans un environnement naturel avec panorama sur les montagnes"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "04 76 15 03 00",
+        "Email": "montbonnot@nohee.fr"
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "PISCINE INTERIEURE",
+        "Commodités proches": [
+          "Shopping",
+          "Marché",
+          "Supermarché",
+          "Restaurant",
+          "Pharmacie",
+          "Médiathèque",
+          "Maison des Arts",
+          "Espaces naturels"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 27 m²",
+            "Tarif": "À partir de 1712€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 38 m²",
+            "Tarif": "À partir de 1888€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 46 m²",
+            "Tarif": "À partir de 2887€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Située aux portes de Grenoble, la résidence Nohée Montbonnot offre un cadre exceptionnel avec vue sur la chaîne majestueuse de Belledonne. Moderne, chaleureuse et lumineuse, elle dispose d’une piscine intérieure et propose un quotidien rythmé par la convivialité et la sérénité. Entre montagne, espaces naturels et vie culturelle, la résidence invite chaque résident à profiter d’un environnement reposant et stimulant."
+      }
+    }
+  },
+  "Résidence Nohée Plaisir": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Plaisir",
+        "Adresse": "2226-2280 rue Jules Régnier 78370 Plaisir",
+        "Ville": "NOHEE Plaisir",
+        "Code postal": "78370",
+        "Département": "Yvelines - 78",
+        "Région": "",
+        "Transports": "🚆 Train : Ligne N // 🚌 Bus : lignes 10, CSP, JV, M, express 4, 27 // RER : gare de Saint-Quentin-en-Yvelines (RER C, lignes N et U) à 20 min en bus // 🚗 Accès routier : N12, D30",
+        "Localisation": [
+          "À 2 km de la mairie de Plaisir",
+          "À 20 min de Versailles et Saint-Quentin-en-Yvelines",
+          "Cadre champêtre et calme à proximité des forêts"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "07 60 75 13 25",
+        "Email": ""
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "PISCINE INTERIEURE",
+        "Commodités proches": [
+          "Centre commercial des Gâtines",
+          "Supermarché",
+          "Pharmacie",
+          "Boulangerie",
+          "Coiffeur",
+          "Restaurants",
+          "Espaces verts"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 32 m²",
+            "Tarif": "À partir de 1411€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 33 m²",
+            "Tarif": "À partir de 2189€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 50 m²",
+            "Tarif": "À partir de 2806€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "La résidence Nohée Plaisir, située dans d'anciens corps de ferme entièrement rénovés, offre un cadre idéal mêlant charme rural et proximité urbaine. Avec sa piscine intérieure et ses espaces verts, elle propose un environnement de vie agréable et reposant, propice aux promenades et au bien-être quotidien. À proximité immédiate des commodités et des services, elle répond parfaitement aux besoins d'autonomie et de confort des résidents."
+      }
+    }
+  },
+  "Résidence Nohée Toulouse Quai Saint-Pierre": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Toulouse Quai Saint-Pierre",
+        "Adresse": "10 Quai Saint-Pierre 31000 Toulouse",
+        "Ville": "NOHEE Toulouse Quai Saint-Pierre",
+        "Code postal": "31000",
+        "Département": "Haute-Garonne - 31",
+        "Région": "",
+        "Transports": "🚇 Métro : station Compans Caffarelli à 13 min // 🚌 Bus : lignes 45, 31 et navette gratuite vers le centre-ville historique (à 200 m) // 🚉 Gare : Toulouse Matabiau // ✈️ Aéroport : Toulouse-Blagnac // 🚗 Accès : périphérique A620 desservant les autoroutes principales",
+        "Localisation": [
+          "Située au cœur du centre historique de Toulouse",
+          "En bordure de la Garonne, proche du quai Saint-Pierre",
+          "Proximité immédiate du Canal de Brienne"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "04 82 29 80 34",
+        "Email": ""
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "PISCINE INTERIEURE",
+        "Commodités proches": [
+          "Loisirs",
+          "Hôpital",
+          "Supermarché",
+          "Pharmacie",
+          "Restaurants",
+          "Espaces verts",
+          "Centre-ville historique"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 27 m²",
+            "Tarif": "À partir de 1760€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 36 m²",
+            "Tarif": "À partir de 1971€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 56 m²",
+            "Tarif": "À partir de 2820€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Située en plein cœur historique de la Ville Rose, la résidence Nohée Toulouse Quai Saint-Pierre offre un cadre architectural unique, mêlant façades en terre cuite, vitraux rénovés et modernité intérieure. Les résidents bénéficient d'un grand confort grâce à la terrasse panoramique et à la piscine intérieure. Proche de toutes commodités et loisirs, elle invite à une vie sereine et dynamique au quotidien."
+      }
+    }
+  },
+  "Résidence Nohée Villefranche-Sur-Saône": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Villefranche-Sur-Saône",
+        "Adresse": "80 route Nationale 69400 Villefranche-sur-Saône",
+        "Ville": "NOHEE Villefranche-sur-Saône",
+        "Code postal": "69400",
+        "Département": "Rhône - 69",
+        "Région": "",
+        "Transports": "🚉 Gare : Villefranche-sur-Saône à 1,2 km // 🚌 Bus : Réseau Libellule lignes 2 et 4 à 100 m // 🚗 Parking : Claude Bernard à 100 m",
+        "Localisation": [
+          "À proximité immédiate des demeures Renaissance de la Rue Nationale",
+          "En plein cœur de Villefranche-sur-Saône, capitale du Beaujolais",
+          "Dans une cité à taille humaine entre nature et ville"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "04 82 29 80 34",
+        "Email": ""
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Shopping",
+          "Presse",
+          "Coiffeur",
+          "Librairie",
+          "Restaurant",
+          "Pharmacie",
+          "Supermarché",
+          "Centre médical",
+          "Espaces verts"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 26 m²",
+            "Tarif": "À partir de 1765€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 36 m²",
+            "Tarif": "À partir de 2044€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 53 m²",
+            "Tarif": "À partir de 2683€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "La résidence Nohée Villefranche-sur-Saône vous accueille au cœur d'une cité charmante mêlant harmonieusement nature et vie urbaine. Moderne et lumineuse, elle dispose d’espaces chaleureux et confortables ainsi que d'un solarium propice à la détente. Idéalement située près des commerces historiques et culturels, elle offre une qualité de vie exceptionnelle aux portes de Lyon et du Beaujolais."
+      }
+    }
+  },
+  "Résidence Nohée Benodet": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Benodet",
+        "Adresse": "43 bis, avenue de la Plage 29950 Bénodet",
+        "Ville": "NOHEE Benodet",
+        "Code postal": "29950",
+        "Département": "Finistère - 29",
+        "Région": "",
+        "Transports": "✈️ Aéroport : Quimper Cornouaille à 18 km // 🚍 Autocars : lignes 41 (Quimper), 48 (Concarneau) // 🚉 Gare : SNCF Quimper à 16 km",
+        "Localisation": [
+          "À 100 mètres des rives de l'Odet et du bord de plage",
+          "Au pied du phare de la Pyramide",
+          "En plein cœur de la Riviera bretonne"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "02 52 56 46 35",
+        "Email": ""
+      },
+      "Environnement": {
+        "Bord de mer": "OUI",
+        "Piscine": "PISCINE CHAUFFEE",
+        "Commodités proches": [
+          "Port de plaisance",
+          "Poste",
+          "Mairie",
+          "Loisirs",
+          "Marché",
+          "Supermarché",
+          "Restaurant",
+          "Shopping",
+          "Boulangerie",
+          "Pharmacie",
+          "Centre médical",
+          "Espaces verts"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 32 m²",
+            "Tarif": "À partir de 1647€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 45 m²",
+            "Tarif": "À partir de 2282€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 56 m²",
+            "Tarif": "À partir de 2495€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Située à Bénodet, au cœur de la Riviera bretonne, la résidence Nohée se distingue par son charme marin et contemporain. Ses intérieurs modernes et confortables, son jardin paysager, sa piscine chauffée et sa proximité immédiate avec la plage et les rives de l’Odet en font un cadre de vie exceptionnel. Ici, chaque résident profite d'une vie sereine et dynamique dans une ambiance conviviale et chaleureuse."
+      }
+    }
+  },
+  "Résidence Nohée Aix Rambot": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Aix Rambot",
+        "Adresse": "2 Avenue du Docteur Fernand Aurientis 13100 Aix-en-Provence",
+        "Ville": "NOHEE Aix Rambot",
+        "Code postal": "13100",
+        "Département": "Bouches-du-Rhône - 13",
+        "Région": "",
+        "Transports": "🚉 Gare TGV Aix à 20 min en voiture // 🚉 Gare TER Aix à 9 min en voiture // 🚌 Bus : Lignes 06, 21, M1 et M3SP",
+        "Localisation": [
+          "Cadre de vie agréable proche des rives de la Torse",
+          "À seulement 30 km de la mer",
+          "Proximité immédiate du centre-ville historique d'Aix-en-Provence"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "04 82 29 80 34",
+        "Email": ""
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Restaurant",
+          "Shopping",
+          "Supermarché",
+          "Pharmacie",
+          "Loisirs",
+          "Espaces verts",
+          "Théâtre",
+          "Musées",
+          "Monuments historiques"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 27 m²",
+            "Tarif": "À partir de 1725€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 45 m²",
+            "Tarif": "À partir de 2042€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 47 m²",
+            "Tarif": "À partir de 2883€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "La résidence Nohée Aix Rambot offre une douceur de vivre unique, nichée dans un cadre verdoyant à proximité des rives paisibles de la Torse. Avec ses terrasses végétalisées, son ambiance sereine et sa proximité immédiate du centre historique, elle propose un quotidien riche en détente et en découvertes culturelles. Un lieu idéal pour profiter pleinement de la douceur provençale."
+      }
+    }
+  },
+  "Résidence Nohée Aix Carnot": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Aix Carnot",
+        "Adresse": "8/10 Boulevard des Poilus 13100 Aix-en-Provence",
+        "Ville": "NOHEE Aix-en-Provence",
+        "Code postal": "13100",
+        "Département": "Bouches-du-Rhône - 13",
+        "Région": "",
+        "Transports": "🚍 Bus : lignes 13, 110, M1 // 🚉 Gare TER d’Aix à 7 min en voiture // 🚄 Gare TGV d’Aix à 20 min en voiture",
+        "Localisation": "À l’entrée du centre historique d’Aix-en-Provence, dans un environnement urbain calme et proche des commodités."
+      },
+      "Contact": {
+        "Téléphone": "04 82 29 80 34",
+        "Email": ""
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "OUI",
+        "Commodités proches": [
+          "Théâtre",
+          "Musée",
+          "Monuments du patrimoine Aixois",
+          "Commerces",
+          "Pharmacie",
+          "Supermarché",
+          "Boulangerie",
+          "Restaurants",
+          "Rue du Mal Joffre",
+          "Cr Gambetta",
+          "Bd des Poilus",
+          "Bd Carnot",
+          "Rue Pavillon"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 31 m²",
+            "Tarif": "À partir de 1566€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 43 m²",
+            "Tarif": "À partir de 2220€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 61 m²",
+            "Tarif": "À partir de 2504€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "Située au cœur d’Aix-en-Provence, la résidence Nohée Aix Carnot vous accueille dans un cadre de vie élégant et chaleureux. À deux pas du centre historique, elle offre un accès facile aux commerces, espaces culturels et monuments emblématiques de la ville. Son jardin potager et sa piscine extérieure créent une atmosphère de bien-être et de sérénité. Chaque appartement est pensé pour allier confort, sécurité et autonomie. C’est un lieu de vie vivant et serein, idéal pour les seniors en quête de convivialité et d’activités enrichissantes."
+      }
+    }
+  },
+  "Résidence Nohée Issy Cœur De Ville": {
+    "Fiche résidence": {
+      "Localisation et adresse": {
+        "Nom": "Résidence seniors Nohée Issy Cœur de Ville",
+        "Adresse": "58 rue Victor Hugo 92130 Issy-les-Moulineaux",
+        "Ville": "NOHEE Issy Cœur de Ville",
+        "Code postal": "92130",
+        "Département": "Hauts-de-Seine - 92",
+        "Région": "",
+        "Transports": "🚇 Métro : Ligne 12, stations Corentin Celton ou Mairie d’Issy",
+        "Localisation": [
+          "Quartier dynamique et commerçant",
+          "Proximité de l’Île Saint-Germain, forêt de Meudon et parc de Saint-Cloud",
+          "Cadre urbain verdoyant avec allées paysagères"
+        ]
+      },
+      "Contact": {
+        "Téléphone": "01 85 53 88 38",
+        "Email": ""
+      },
+      "Environnement": {
+        "Bord de mer": "NON",
+        "Piscine": "NON",
+        "Commodités proches": [
+          "Poste",
+          "Mairie, police",
+          "Coiffeur",
+          "Shopping",
+          "Hôpital",
+          "Supermarché",
+          "Boulangerie",
+          "Restaurant",
+          "Pharmacie",
+          "Espaces verts"
+        ]
+      },
+      "Logement": {
+        "Typologie des appartements": {
+          "Studio": {
+            "Superficie": "À partir de 31 m²",
+            "Tarif": "À partir de 1453€/mois"
+          },
+          "Appartement 2 pièces": {
+            "Superficie": "À partir de 44 m²",
+            "Tarif": "À partir de 2131€/mois"
+          },
+          "Appartement 3 pièces": {
+            "Superficie": "À partir de 51 m²",
+            "Tarif": "À partir de 2488€/mois"
+          }
+        }
+      },
+      "Direction": {
+        "Mot du directeur": "La résidence Nohée Issy Cœur de Ville bénéficie d’un cadre privilégié dans un quartier dynamique d’Issy-les-Moulineaux, où commerces, restaurants et espaces verts se côtoient harmonieusement. Dotée d’une décoration contemporaine colorée, elle offre des espaces de vie chaleureux et conviviaux."
+      }
+    }
+  }
+}

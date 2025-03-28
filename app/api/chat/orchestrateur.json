@@ -1,0 +1,48 @@
+{
+  "phases": [
+    {
+      "id": "accueil",
+      "objectif_user": "Exprimer son besoin ou la raison du contact",
+      "objectif_bot": "Se présenter et identifier qui est l’interlocuteur (prospect ou non)",
+      "questions_a_valider": [
+        "type_interlocuteur"
+      ],
+      "prompt_id": "accueil.reponse"
+    },
+    {
+      "id": "exploration_du_besoin",
+      "objectif_user": "Présenter la situation du bénéficiaire",
+      "objectif_bot": "Comprendre le besoin : profil, lieu, délai, autonomie, ressources",
+      "questions_a_valider": [
+        "beneficiaire_identifie",
+        "localisation_souhaitee",
+        "delai_du_projet",
+        "niveau_autonomie",
+        "typologie_appartement",
+        "ressources_disponibles"
+      ],
+      "prompt_id": "exploration_du_besoin.reponse"
+    },
+    {
+      "id": "presentation_solution",
+      "objectif_user": "Recevoir une proposition adaptée",
+      "objectif_bot": "Présenter la résidence, les logements, les services et le tarif",
+      "questions_a_valider": [],
+      "prompt_id": "presentation_solution.reponse"
+    },
+    {
+      "id": "action",
+      "objectif_user": "S’engager ou demander un document",
+      "objectif_bot": "Proposer une action concrète (visite, brochure, contact)",
+      "questions_a_valider": [],
+      "prompt_id": "action.reponse"
+    },
+    {
+      "id": "recapitulatif",
+      "objectif_user": "Clôturer l’échange",
+      "objectif_bot": "Résumer et remercier",
+      "questions_a_valider": [],
+      "prompt_id": "recapitulatif.reponse"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "orchestrateur.json": {
+    "phases": [
+      {
+        "id": "accueil",
+        "objectif_user": "Exprimer son besoin ou la raison du contact",
+        "objectif_bot": "Se présenter et identifier qui est l’interlocuteur (prospect ou non)",
+        "questions_a_valider": ["type_interlocuteur"],
+        "prompt_id": "accueil.reponse"
+      },
+      {
+        "id": "exploration_du_besoin",
+        "objectif_user": "Présenter la situation du bénéficiaire",
+        "objectif_bot": "Comprendre le besoin : profil, lieu, délai, autonomie, ressources",
+        "questions_a_valider": [
+          "beneficiaire_identifie",
+          "localisation_souhaitee",
+          "delai_du_projet",
+          "niveau_autonomie",
+          "typologie_appartement",
+          "ressources_disponibles"
+        ],
+        "prompt_id": "exploration_du_besoin.reponse"
+      },
+      {
+        "id": "presentation_solution",
+        "objectif_user": "Recevoir une proposition adaptée",
+        "objectif_bot": "Présenter la résidence, les logements, les services et le tarif",
+        "questions_a_valider": [],
+        "prompt_id": "presentation_solution.reponse"
+      },
+      {
+        "id": "action",
+        "objectif_user": "S’engager ou demander un document",
+        "objectif_bot": "Proposer une action concrète (visite, brochure, contact)",
+        "questions_a_valider": [],
+        "prompt_id": "action.reponse"
+      },
+      {
+        "id": "recapitulatif",
+        "objectif_user": "Clôturer l’échange",
+        "objectif_bot": "Résumer et remercier",
+        "questions_a_valider": [],
+        "prompt_id": "recapitulatif.reponse"
+      }
+    ]
+  },
+
+  "informations_a_extraire.json": {
+    "beneficiaire_identifie": {
+      "intitule": "Personne concernée par le projet",
+      "type": "profil",
+      "obligatoire": true
+    },
+    "localisation_souhaitee": {
+      "intitule": "Zone géographique recherchée",
+      "type": "lieu",
+      "obligatoire": true
+    },
+    "delai_du_projet": {
+      "intitule": "Délai ou urgence du projet",
+      "type": "temps",
+      "obligatoire": true
+    },
+    "niveau_autonomie": {
+      "intitule": "Niveau d’autonomie du bénéficiaire",
+      "type": "autonomie",
+      "obligatoire": true
+    },
+    "typologie_appartement": {
+      "intitule": "Type d’appartement souhaité",
+      "type": "logement",
+      "obligatoire": true
+    },
+    "ressources_disponibles": {
+      "intitule": "Revenus ou aides du bénéficiaire",
+      "type": "budget",
+      "obligatoire": true
+    },
+    "type_interlocuteur": {
+      "intitule": "Qui parle ? (prospect, pro, testeur…)",
+      "type": "profil_interlocuteur",
+      "obligatoire": true
+    }
+  },
+
+  "prompts_amelie.json": {
+    "system_prompt_global": "Tu es Amélie, une assistante chaleureuse, efficace et à l’écoute. Ton rôle est d’accompagner des personnes intéressées par une résidence senior Nohée, en comprenant leur besoin, en les orientant, et en répondant à leurs questions de manière claire, rassurante et fluide.",
+
+    "phases": {
+      "accueil": {
+        "reponse": "Bonjour et bienvenue 🌼 Je suis Amélie, l’assistante des résidences Nohée. Dites-moi ce qui vous amène aujourd’hui : c’est pour vous, pour un proche ? Je suis là pour vous aider."
+      },
+      "exploration_du_besoin": {
+        "reponse": "Merci pour ces précisions ! Pour vous proposer quelque chose de vraiment adapté, j’aimerais mieux comprendre votre situation : pour qui est-ce, dans quelle région, et dans quel délai vous imaginez ce projet ?"
+      },
+      "presentation_solution": {
+        "reponse": "Voici ce que je peux vous proposer en fonction de ce que vous m’avez dit 🏡 : une résidence, un type d’appartement, les services qu’elle propose, et le tarif correspondant."
+      },
+      "action": {
+        "reponse": "Souhaitez-vous visiter la résidence, recevoir une brochure, ou qu’on vous appelle pour en discuter ? Dites-moi ce qui vous conviendrait."
+      },
+      "recapitulatif": {
+        "reponse": "Pour résumer : vous cherchez un logement pour [bénéficiaire], autour de [lieu], avec un projet prévu [délai]. Je vous ai présenté [résidence], et vous m’avez demandé [action choisie]. Merci pour votre confiance 🙏"
+      }
+    }
+  }
+}

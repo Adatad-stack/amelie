@@ -1,0 +1,12 @@
+Structure du dossier pour le volume Windows
+Le numéro de série du volume est 60EA-DC82
+C:\AMELIE\APP\API\CHAT
+¦   full_residences_nohee.json
+¦   informations_a_extraire.json
+¦   orchestrateur.json
+¦   prompts_amelie.json
+¦   
++---utils
+        gpt.js
+        residence.js
+        

@@ -1,0 +1,76 @@
+{
+  "beneficiaire_identifie": {
+    "intitule": "Personne concernée par le projet",
+    "type": "profil",
+    "exemples_valeurs": [
+      "ma mère",
+      "mon père",
+      "moi",
+      "mes parents"
+    ],
+    "obligatoire": true
+  },
+  "localisation_souhaitee": {
+    "intitule": "Zone géographique recherchée",
+    "type": "lieu",
+    "exemples_valeurs": [
+      "à Paris",
+      "dans le sud",
+      "en Île-de-France",
+      "près de Lyon"
+    ],
+    "obligatoire": true
+  },
+  "delai_du_projet": {
+    "intitule": "Délai ou urgence du projet",
+    "type": "temps",
+    "exemples_valeurs": [
+      "rapidement",
+      "dans 3 mois",
+      "avant l’été",
+      "pas pressé"
+    ],
+    "obligatoire": true
+  },
+  "niveau_autonomie": {
+    "intitule": "Niveau d’autonomie du bénéficiaire",
+    "type": "autonomie",
+    "exemples_valeurs": [
+      "autonome",
+      "fatigue vite",
+      "aide quotidienne"
+    ],
+    "obligatoire": true
+  },
+  "typologie_appartement": {
+    "intitule": "Type d’appartement souhaité",
+    "type": "logement",
+    "exemples_valeurs": [
+      "studio",
+      "T2",
+      "deux pièces"
+    ],
+    "obligatoire": true
+  },
+  "ressources_disponibles": {
+    "intitule": "Revenus ou aides du bénéficiaire",
+    "type": "budget",
+    "exemples_valeurs": [
+      "1600€",
+      "APL",
+      "retraite",
+      "pension"
+    ],
+    "obligatoire": true
+  },
+  "type_interlocuteur": {
+    "intitule": "Qui parle ? (prospect, pro, testeur…)",
+    "type": "profil_interlocuteur",
+    "exemples_valeurs": [
+      "je suis assistante sociale",
+      "je suis kiné",
+      "je suis journaliste"
+    ],
+    "obligatoire": true
+  }
+}
